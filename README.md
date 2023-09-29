@@ -1,7 +1,5 @@
 # Slot Machine Game
 
-![Slot Machine](slot_machine.png)
-
 A simple slot machine game with a graphical user interface (GUI) built using Python and Tkinter.
 
 ## Table of Contents
